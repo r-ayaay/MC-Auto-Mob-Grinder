@@ -1,3 +1,0 @@
-([('xpbotmc',
-   '/Users/fst.user/Desktop/MC-Auto-Mob-Grinder/dist/xpbotmc',
-   'EXECUTABLE')],)
